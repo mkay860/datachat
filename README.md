@@ -1,13 +1,13 @@
-# 🤖 DataTalker AI
+# 🤖 Datachat AI
 
 > **Chat with your data in plain English. Powered by Llama 3.3 & Groq.**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datachatmkay.streamlit.app/)
 
 
-## 🚀 Overview
-DataTalker AI is a futuristic, intelligent data analysis tool that allows users to upload CSV files and ask questions in natural language. Instead of writing complex Python or SQL queries, you simply ask: *"Which category has the highest sales?"* or *"Show me a bar chart of monthly growth,"* and the AI generates the  insights and visualizations almost instantly.
-It is currently limited by the API's free tier (since the project is for personal experimentation), so you may run int rate limiting problems when running the app. 
+## Overview
+Datachat AI is an intelligent data analysis tool that allows users to upload CSV files and ask questions in natural language. Instead of writing complex Python or SQL queries, you simply ask: *"Which category has the highest sales?"* or *"Show me a bar chart of monthly growth,"* and the AI generates the  insights and visualizations almost instantly.
+It is currently limited by the API's free tier (since the project is for personal experimentation), so you may run into rate limiting problems when running the app. 
 
 It is built with **Streamlit** for the frontend and uses **Groq's LPU inference engine** running **Llama 3.3 70B** for fast responses.
 
