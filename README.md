@@ -1,4 +1,4 @@
-# 🤖 Datachat AI
+# Datachat AI
 
 > **Chat with your data in plain English. Powered by Llama 3.3 & Groq.**
 
@@ -11,12 +11,12 @@ It is currently limited by the API's free tier (since the project is for persona
 
 It is built with **Streamlit** for the frontend and uses **Groq's LPU inference engine** running **Llama 3.3 70B** for fast responses.
 
-## ✨ Features
-* **🗣️ Natural Language Analysis:** Chat with your CSV file as if it were a human analyst.
-* **⚡ Blazing Fast:** Powered by Groq's LPU, providing near-instant AI inference.
-* **📊 Auto-Visualization:** Automatically generates Bar charts, Line charts, and Pie charts based on your query.
-* **🔐 Secure:** API keys are handled safely via Streamlit Secrets; no keys are stored in the code. 
-* **🎨 Cyberpunk UI:** Custom CSS styling for a modern, dark-mode aesthetic.
+##  Features
+* **Natural Language Analysis:** Chat with your CSV file as if it were a human analyst.
+* **Blazing Fast:** Powered by Groq's LPU, providing near-instant AI inference.
+* **Auto-Visualization:** Automatically generates Bar charts, Line charts, and Pie charts based on your query.
+* **Secure:** API keys are handled safely via Streamlit Secrets; no keys are stored in the code. 
+* **Cyberpunk UI:** Custom CSS styling for a modern, dark-mode aesthetic.
 
 ## 🛠️ Tech Stack
 * **Frontend:** [Streamlit](https://streamlit.io/)
@@ -25,13 +25,13 @@ It is built with **Streamlit** for the frontend and uses **Groq's LPU inference 
 * **Connector:** [LiteLLM](https://github.com/BerriAI/litellm)
 * **Language:** Python 3.11
 
-## 📸 Screenshots
+## Screenshots
 ![App Demo](ss1.png)
 ![App Demo](ss2.png)
 ![App Demo](ss3.png)
 ![App Demo](ss4.png)
 
-## ⚙️ Installation & Local Setup
+## Installation & Local Setup
 
 If you want to run this app on your own machine:
 
@@ -68,7 +68,7 @@ If you want to run this app on your own machine:
     streamlit run app.py
     ```
 
-## 🤝 Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mkay860/datachat/issues).
 
 
